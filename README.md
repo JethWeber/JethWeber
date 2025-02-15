@@ -1,12 +1,29 @@
-- 👋 Hi, I’m @JethWeber
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Bem-vindo ao Meu Perfil no GitHub! 👋
 
-<!---
-JethWeber/JethWeber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Olá! Eu sou um programador apaixonado pela tecnologia e com um amplo conjunto de habilidades. Aqui você encontrará alguns dos meus projetos e contribuições nas áreas de programação, ciência de dados e cibersegurança.
+
+## Sobre Mim
+
+- **Programador**: Desenvolvimento Web, Desktop e Mobile
+- **Expert em Redes de Computador**: Configuração, manutenção e segurança de redes
+- **Cientista/Engenheiro de Dados**: Análise de dados, Machine Learning e Deep Learning
+- **CyberSecurity**: Práticas de segurança para proteger dados e sistemas
+
+## Linguagens e Tecnologias
+
+- **Front-End**: HTML, CSS, JavaScript
+- **Back-End**: PHP, Java, C# (Asp.Net)
+- **Python**: Pandas, NumPy, Matplotlib, Scikit-Learn, Seaborn, Keras, TensorFlow, Flet, ...
+- **Bancos de Dados**: SQL Server, MySQL, SQLite
+
+
+
+## Contato
+
+Se você deseja entrar em contato comigo, aqui estão algumas maneiras:
+
+- **Email**: [jethweber@gmail.com](mailto:seuemail@exemplo.com)
+
+---
+
+Sinta-se à vontade para explorar meus repositórios e me enviar uma mensagem se tiver alguma dúvida ou sugestão. Vamos colaborar e aprender juntos! 🚀
