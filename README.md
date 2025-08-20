@@ -22,7 +22,7 @@ Olá! Eu sou um programador apaixonado pela tecnologia e com um amplo conjunto d
 
 Se você deseja entrar em contato comigo, aqui estão algumas maneiras:
 
-- **Email**: [jethweber@gmail.com](mailto:seuemail@exemplo.com)
+- **Email**: [j37hw3b31@proton.me](mailto:seuemail@exemplo.com)
 
 ---
 
